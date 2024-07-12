@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: Andreas-Rieger-BS/Test_Con3
 spec:
-  type: other
-  lifecycle: unknown
+  type: service
+  lifecycle: production
   owner: admins
